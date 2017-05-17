@@ -13,7 +13,7 @@ Card.deck_init(decks,penetration)
 p1 = Person(2,1000,"Pierre",'naif')
 p2 = Person(3,1000,"Marc",'basic')
 p3 = Person(4,1000,"André",'bank')
-p4 = Person(5,1000,"Franck",'bank')
+p4 = Person(5,1000,"Franck",'random')
 
 x1 = [1000]
 x2 = [1000]
